@@ -1,4 +1,5 @@
-electronics
+Electronics
 ===========
 
-Assorted electronics projects and circuits
+Assorted electronics projects and circuits.
+
