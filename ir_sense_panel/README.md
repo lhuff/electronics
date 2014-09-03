@@ -2,6 +2,7 @@ IR Sense Panel
 ===========
 
 Schematic and board file for a 4x4 infrared distance sensor panel. 
+
 Based off this guide: 
 http://www.instructables.com/id/Motion-Sensing-LEDs/?ALLSTEPS
 
