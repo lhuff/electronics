@@ -3,7 +3,7 @@ Intervalometer
 
 Schematic, board file, and 3d printed case (.stl) for an intervalometer designed for use with Canon DSLR cameras (uses 2.5mm remote jack).
 
-![Header Image](lhuff.github.com/electronics/intervalometer/img/board_top.jpg)
+![Header Image](https://github.com/lhuff/electronics/blob/master/intervalometer/img/board_top.jpg)
 
 This project was mostly done to make use of some spare parts and does not include all of the features that a proper intervalometer should have.
 
