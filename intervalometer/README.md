@@ -1,7 +1,7 @@
 Intervalometer
 ===========
 
-Schematic, board file, and 3d printed case (.stl) for an intervalometer designed for use with Canon DSLR cameras (uses 2.5mm remote jack).
+Schematic, board file, and 3d printed case (.stl) for an intervalometer designed for use with Canon DSLR cameras (uses 2.5mm remote jack). Has 4 modes (1 second, 1 minute, 30 minutes, and 1 hour) which are displayed on the single seven segment digit.
 
 ![Header Image 1](https://github.com/lhuff/electronics/blob/master/intervalometer/img/board_top.jpg)
 ![Header Image 2](https://github.com/lhuff/electronics/blob/master/intervalometer/img/board_bottom.jpg)
